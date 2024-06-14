@@ -113,7 +113,5 @@ public class cgpa {
             System.out.print("Your GPA is ");
             System.out.printf("%.2f",gp);
         }
-        
-        
 }
 }
