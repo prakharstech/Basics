@@ -46,7 +46,7 @@ public class cgpa {
         int s8=0;
         int s9=0;
         if(cycle==1){
-            System.out.println("Enter your grades");
+            System.out.println("Enter your grades (Upper Caps only)");
             Gpa g=new Gpa();
             System.out.print("Engineering Mathemeatics 2: ");
             s1=g.gradeInput()*4;
