@@ -24,7 +24,8 @@ class Gpa{
             case "E":
                 gradeint=5;
                 break;
-            default:
+            case "F":
+                gradeint=0;
                 break;
         }
         return gradeint;
